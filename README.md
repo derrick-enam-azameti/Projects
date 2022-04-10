@@ -7,5 +7,6 @@ This is a group of projects that I usually list on my CVs
 > - **[ReactJS Apps](https://google.com)**
 > - **[ReactNative Apps](https://google.com)**
 > - **[Python](https://google.com)**
-> - **[Data Visualization](https://google.com)**
+> - **[Data Analytics & Visualizations](https://google.com)**
+> - **[MicroSoft Excel VBA](https://google.com)**
 
